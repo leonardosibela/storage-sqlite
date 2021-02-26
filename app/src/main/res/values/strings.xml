@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Storage SQLite</string>
+    <string name="task_name_hint">Task name</string>
+    <string name="save_button">Save</string>
+</resources>
